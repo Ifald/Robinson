@@ -17,5 +17,12 @@ recipes.addShaped(<appliedenergistics2:material:19>,
  [[<appliedenergistics2:material:0>, <appliedenergistics2:material:0>, <appliedenergistics2:material:0>],
   [<appliedenergistics2:material:0>, <enderio:itemMaterial>, <appliedenergistics2:material:1>],
   [<appliedenergistics2:material:0>, <appliedenergistics2:material:0>, <appliedenergistics2:material:0>]]);
+  
+//Mystical Agri Culture
+recipes.remove(<mysticalagriculture:base_essence_ingot>);
+recipes.addShaped(<mysticalagriculture:base_essence_ingot>,
+ [[null, <mysticalagriculture:prosperity_shard>, null],
+  [<mysticalagriculture:prosperity_shard>, <mysticalagriculture:infusion_crystal>, <mysticalagriculture:prosperity_shard>],
+  [null, <mysticalagriculture:prosperity_shard>, null]]);
 
 print("Initialized 'addrecipe'");

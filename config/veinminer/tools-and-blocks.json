@@ -4,8 +4,6 @@
       "name": "Axe",
       "icon": "minecraft:diamond_axe",
       "toollist": [
-        "IC2:itemToolBronzeAxe",
-        "IC2:itemToolChainsaw",
         "appliedenergistics2:item.ToolCertusQuartzAxe",
         "appliedenergistics2:item.ToolNetherQuartzAxe",
         "minecraft:diamond_axe",
@@ -41,7 +39,6 @@
         "harvestcraft:pamCinnamon/0",
         "harvestcraft:pamMaple/0",
         "harvestcraft:pamPaperbark/0",
-        "ic2:leaves",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
@@ -60,7 +57,6 @@
       "name": "Hoe",
       "icon": "minecraft:diamond_hoe",
       "toollist": [
-        "IC2:itemToolBronzeHoe",
         "appliedenergistics2:item.ToolCertusQuartzHoe",
         "appliedenergistics2:item.ToolNetherQuartzHoe",
         "minecraft:diamond_hoe",
@@ -82,10 +78,6 @@
       "name": "Pickaxe",
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
-        "IC2:itemToolBronzePickaxe",
-        "IC2:itemToolDDrill",
-        "IC2:itemToolDrill",
-        "IC2:itemToolIridiumDrill",
         "appliedenergistics2:item.ToolCertusQuartzPickaxe",
         "appliedenergistics2:item.ToolNetherQuartzPickaxe",
         "minecraft:diamond_pickaxe",
@@ -102,10 +94,6 @@
         "forestry:resources/0",
         "forestry:resources/1",
         "forestry:resources/2",
-        "ic2:resource/1",
-        "ic2:resource/2",
-        "ic2:resource/3",
-        "ic2:resource/4",
         "immersiveengineering:ore/0",
         "immersiveengineering:ore/1",
         "immersiveengineering:ore/2",
@@ -165,7 +153,6 @@
       "name": "Shears",
       "icon": "minecraft:shears",
       "toollist": [
-        "IC2:itemToolBronzeHoe",
         "minecraft:shears"
       ],
       "blocklist": [
@@ -173,7 +160,6 @@
         "forestry:leaves.decorative.0",
         "forestry:leaves.decorative.1",
         "forestry:leaves.decorative.2",
-        "ic2:leaves",
         "minecraft:deadbush",
         "minecraft:leaves",
         "minecraft:leaves2",
@@ -188,7 +174,6 @@
       "name": "Shovel",
       "icon": "minecraft:diamond_shovel",
       "toollist": [
-        "IC2:itemToolBronzeSpade",
         "appliedenergistics2:item.ToolCertusQuartzSpade",
         "appliedenergistics2:item.ToolNetherQuartzSpade",
         "minecraft:diamond_shovel",

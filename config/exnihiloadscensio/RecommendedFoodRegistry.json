@@ -1533,6 +1533,19 @@
       "meta": 0
     }
   },
+  "tp:diamond_apple:0": {
+    "value": 0.1,
+    "color": {
+      "r": 0.49803922,
+      "g": 0.24705882,
+      "b": 0.05882353,
+      "a": 1.0
+    },
+    "compostBlock": {
+      "name": "minecraft:dirt",
+      "meta": 0
+    }
+  },
   "harvestcraft:extremechiliItem:0": {
     "value": 0.35,
     "color": {
@@ -2952,19 +2965,6 @@
   },
   "harvestcraft:blueberrysmoothieItem:0": {
     "value": 0.15,
-    "color": {
-      "r": 0.49803922,
-      "g": 0.24705882,
-      "b": 0.05882353,
-      "a": 1.0
-    },
-    "compostBlock": {
-      "name": "minecraft:dirt",
-      "meta": 0
-    }
-  },
-  "ic2:terra_wart:0": {
-    "value": 0.0,
     "color": {
       "r": 0.49803922,
       "g": 0.24705882,
